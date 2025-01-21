@@ -1,17 +1,17 @@
 --- 
-title: "A Minimal Bookdown Book"
-author: "Sean Kross"
+title: "AP Revenue Resource Guide"
+author: "Hannah Fuchs"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: seankross/bookdown-start
-url: 'http\://seankross.com/bookdown-start/'
-description: "Everything you need (and nothing more) to start a bookdown book."
+github-repo: AP-analytics/resource_guide
+url: 'http\://ap-analytics.github.io/resource_guide/'
+description: "Everything you need to understand AP content."
 ---
 
 # Preface {-}
 
-This is the very first part of the book.
+This book provides an overview of important aspects of the AP Revenue Department. Throughout, you will find definitions of products, explanation of processes, and tutorials on how to collect and analyze data. 
