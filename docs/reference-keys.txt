@@ -1,4 +1,12 @@
 introduction
-diving-in
 content-we-sell
 where-the-data-is-found
+products
+formats
+photo
+ap-images
+video
+text
+audio
+section
+technical-details
