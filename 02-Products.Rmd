@@ -1,8 +1,3 @@
----
-title: "02-Products"
-output: html_document
----
-
 # Products
 
 ## Formats
